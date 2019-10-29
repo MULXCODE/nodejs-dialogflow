@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/dialogflow?activeTab=versions
 
+## [0.13.0](https://www.github.com/googleapis/nodejs-dialogflow/compare/v0.12.2...v0.13.0) (2019-10-29)
+
+
+### Features
+
+* introduces languageCode option ([8f3943f](https://www.github.com/googleapis/nodejs-dialogflow/commit/8f3943f8f6abb575f8b255207617a24e213bae57))
+
 ### [0.12.2](https://www.github.com/googleapis/nodejs-dialogflow/compare/v0.12.1...v0.12.2) (2019-10-22)
 
 
